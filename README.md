@@ -3,7 +3,7 @@
 |   |-- /images (Images for the app)
 |   |-- /css (Stylesheets)
 |   |-- /js (JavaScript files)
-|-- /index.html (Homepage for the app)
+|-- /index.html ( Homepage for the app)
 |-- /admin.html (Admin Dashboard page)
 |-- /doctor.html (Doctor Dashboard page)
 |-- /patient.html (Patient Dashboard page)
