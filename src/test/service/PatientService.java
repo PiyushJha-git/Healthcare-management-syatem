@@ -1,4 +1,4 @@
-package com.healthcare.management.service;
+package com.healthcare.service;
 
 import com.healthcare.management.dao.PatientDao;
 import com.healthcare.management.model.Patient;
